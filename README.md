@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Xss framework**
 
-- 🌱 I’m currently learning **Openshift**
+- 🌱 I’m currently learning **from my Xss framework which is in dev.**
 
 - 👯 I’m looking to collaborate on **In relation of the Xss framework**
 
